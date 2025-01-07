@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:801981499965:android:b269486e3db740e471b854",
+        "mobilesdk_app_id": "1:801981499965:android:49f99aa2be9665e371b854",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.example.tp3_flutter"
         }
       },
       "oauth_client": [],
