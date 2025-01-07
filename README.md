@@ -1,16 +1,20 @@
-# tp3_flutter
+# HAI912I - Flutter TP3
 
-A new Flutter project.
+- Richard Picole-Ollivier
 
-## Getting Started
+-----------------------------------------------------------------
+## Pré-requis:
 
-This project is a starting point for a Flutter application.
+### :coffee: Installation de java:
+Installer une version de JAVA qui est au minimum la version [17](https://www.oracle.com/fr/java/technologies/javase/jdk17-archive-downloads.html)
 
-A few resources to get you started if this is your first Flutter project:
+Un détail de la procédure sur linux est disponible [ici](https://linuxconfig.org/how-to-install-and-switch-java-versions-on-ubuntu-linux)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-----------------------------------------------------------------
+
+- Il est nécessaire de paraméter un support dans **Android Studio** dans un premier
+
+- Commande pour créer lancer le build *flutter* et *gradle*: `flutter run`
+
+NB: Si le support est bien paramétrer, l'application devrait automatiquement s'ouvrir une fois le tâche *build* terminée
